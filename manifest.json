@@ -1,5 +1,6 @@
 {
   "name": "RoboFriends",
+  "id": "/RoboFriends/",
   "short_name": "Robo",
   "icons": [
     {
@@ -22,6 +23,18 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "screenshots": [
+    {
+     "src": "screenshot_desktop.png",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshot_mobile.png",
+       "type": "image/png",
+       "form_factor": "narrow"
+     }
   ],
   "start_url": ".",
   "theme_color": "#ffffff",
