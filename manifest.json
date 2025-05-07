@@ -26,15 +26,17 @@
   ],
   "screenshots": [
     {
-     "src": "screenshot_desktop.png",
+      "src": "screenshot_desktop.png",
+      "sizes": "2880x1346",
       "type": "image/png",
       "form_factor": "wide"
     },
     {
       "src": "screenshot_mobile.png",
-       "type": "image/png",
-       "form_factor": "narrow"
-     }
+      "sizes": "668x1188",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
   ],
   "start_url": ".",
   "theme_color": "#ffffff",
